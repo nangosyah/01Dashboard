@@ -1,0 +1,39 @@
+---
+title: "Music Playlist"
+format:
+  dashboard: 
+    logo: "images/Spotify_Primary_logo_RGB_Green.png"
+    orientation: columns
+---
+
+## Column {width="35%"}
+
+Tom Tash
+
+```{r loadpackages}
+#| echo: false
+#| include: false
+library(tidyverse)
+```
+
+
+
+```{r printstarwars}
+head(starwars)
+```
+
+
+## Column {width="65%"}
+
+Wellard
+
+### Row {height="10%"}
+
+Nangosyah
+
+### Row {height="70%"}
+
+Wamaleero
+
+### Row {height="20%"}
+
