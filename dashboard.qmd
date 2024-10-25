@@ -16,12 +16,9 @@ Tom Tash
 library(tidyverse)
 ```
 
-
-
 ```{r printstarwars}
 head(starwars)
 ```
-
 
 ## Column {width="65%"}
 
@@ -36,4 +33,3 @@ Nangosyah
 Wamaleero
 
 ### Row {height="20%"}
-
